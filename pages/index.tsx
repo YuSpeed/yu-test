@@ -1,0 +1,1 @@
+export default ()=><main>hello</main>
